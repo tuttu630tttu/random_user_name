@@ -1,0 +1,12 @@
+# Generated executable and compiler output
+/username
+/username.exe
+*.o
+*.obj
+*.dSYM/
+
+# Local system and editor files
+.DS_Store
+.vscode/
+.idea/
+*~
